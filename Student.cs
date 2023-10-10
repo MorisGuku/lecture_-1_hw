@@ -1,9 +1,5 @@
 ﻿using lecture_1_hw;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace lecture__1_hw
 {
